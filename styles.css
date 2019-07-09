@@ -1,0 +1,131 @@
+body {
+    background: darkcyan;
+    color: black;
+  }
+  
+  .wrapper {
+    border: 1px solid black;
+    margin: 70px;
+    margin-top: 90px;
+    background-image: url("https://cdn.shopify.com/s/files/1/0533/2089/files/5-websites-to-download-free-subtle-textures-subtle.jpg?5724472906039650661");
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 4px 4px 4px black;
+  }
+  
+  .container {
+    margin: 20px auto;
+    width: 85%;
+    border: 1px solid black;
+    box-shadow: 2px 2px 2px gray;
+    background-color: lightcyan;
+    border-radius: 10px 10px 10px 10px;
+  }
+  
+  nav {
+    border: 1px solid black;
+  }
+  
+  #footer {
+    border: 1px solid black;
+  }
+  
+  img {
+    display: block;
+    margin: 0 auto;
+    box-shadow: 2px 2px 2px gray;
+  }
+  
+  #main-logo {
+    margin-top: 25px;
+    margin-bottom: 25px;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+  h2 {
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+  p {
+    padding: 10px;
+  }
+  
+  #p-footer {
+    text-align: center;
+    color: white;
+    background-color: rgb(52, 58, 64);
+  }
+  
+  #footer {
+    background-color: rgb(52, 58, 64);
+  }
+  
+  #card-category-body {
+    color: white;
+    background-color: gray;
+    border: 1px solid black;
+  }
+  
+  #categories-btn {
+    margin: 10px;
+  }
+  
+  .carousel,
+  .slide {
+    margin: 10px;
+  }
+  
+  .carousel-item {
+    border: 1px solid black;
+    margin-bottom: 10px;
+    box-shadow: 2px 2px 2px gray;
+  }
+  
+  .accordion {
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  a:hover {
+    font-weight: bold;
+    text-decoration: none;
+    color: cyan;
+  }
+  
+  #upcoming-events {
+    padding: 10px;
+    background-color: black;
+  }
+  
+  #card-text {
+    text-align: center;
+  }
+  
+  #category-1,
+  #category-2,
+  #category-3,
+  #category-4 {
+    display: block;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    border: 1px solid black;
+  }
+  
